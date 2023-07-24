@@ -10,6 +10,7 @@
 >## Sentence structure
 |[Adjunct(s)]|Subject|[tense]|Verb|[Object+prepositions for various indirect objects]
 |-|-|-|-|-
+
 All words that are not pronouns or prepositions can act both like nouns and verbs, since they have to be put following the scheme.
 ***Examples:***
 **eu krau**
